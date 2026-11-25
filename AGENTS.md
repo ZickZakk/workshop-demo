@@ -11,4 +11,4 @@ Beginner's guide to soccer. One Markdown chapter per file.
 
 ## Boundaries
 - Only edit the section you were asked about
-- Check your changes with `git diff` before finishing
+- Commit your changes with `git commit` before finishing
