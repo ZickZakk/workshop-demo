@@ -15,6 +15,10 @@ Each team has eleven players on the pitch:
 - **Midfielders:** connect defence and attack and control the tempo
 - **Forwards:** create chances and score goals
 
+## The offside rule
+
+A player is in an **offside position** when they are in the opponents' half and nearer the opponents' goal line than both the ball and the **second-to-last opponent**. The second-to-last opponent is the second opponent counting back from their goal line, often the last defender before the goalkeeper. The referee judges the position at the moment a teammate plays or touches the ball, and the player is penalised only if they then become involved in play. A player cannot be offside in their own half.
+
 ## Match duration
 
 A match lasts 90 minutes, split into two halves of 45 minutes with a 15-minute break. The referee adds stoppage time at the end of each half for time lost to injuries, substitutions and other delays.
