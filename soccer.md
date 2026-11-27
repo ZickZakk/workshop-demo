@@ -30,3 +30,15 @@ The pitch is a rectangle of grass or artificial turf, 100 to 110 metres long and
 ## Fouls and cards
 
 Kicking, tripping, pushing or holding an opponent is a foul. The other team gets a free kick, or a penalty kick if the foul happens inside the penalty area. For serious or repeated fouls, the referee shows a **yellow card** as a warning. A second yellow card, or a **red card** for a very serious foul, sends the player off for the rest of the match.
+
+## The penalty kick
+
+A **penalty kick** is given when a defender commits a foul inside their own penalty area.
+
+- The ball is placed on the penalty spot, 9 metres from the goal line
+- Only the kicker and the goalkeeper may be inside the penalty area
+- The goalkeeper must stay on the goal line until the ball is kicked
+- All other players wait outside the area, on the field
+- The kicker may not touch the ball a second time before another player does
+- If the goalkeeper moves off the line early and saves, the kick is retaken
+- Most penalties are scored
