@@ -19,6 +19,10 @@ Each team has eleven players on the pitch:
 
 A player is in an **offside position** when they are in the opponents' half and nearer the opponents' goal line than both the ball and the **second-to-last opponent**. The second-to-last opponent is the second opponent counting back from their goal line, often the last defender before the goalkeeper. The referee judges the position at the moment a teammate plays or touches the ball, and the player is penalised only if they then become involved in play. A player cannot be offside in their own half.
 
+## Video Assistant Referee (VAR)
+
+The **Video Assistant Referee (VAR)** is an official who uses video replays to help the referee check important decisions. VAR checks certain incidents, including goals, penalty decisions, straight red cards and cases where the wrong player was identified. If a review is needed, the referee may watch a replay on a screen beside the pitch. The referee makes the final decision, and VAR does not review every decision.
+
 ## Match duration
 
 A match lasts 90 minutes, split into two halves of 45 minutes with a 15-minute break. The referee adds stoppage time at the end of each half for time lost to injuries, substitutions and other delays.
